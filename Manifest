@@ -1,0 +1,7 @@
+CHANGELOG.rdoc
+MIT-LICENSE
+README
+Rakefile
+lib/capistrano/ext/rvm-bundler.rb
+lib/capistrano/ext/version.rb
+Manifest

@@ -2,3 +2,10 @@
 
 * add description in README
 * add MIT license
+
+== 0.0.1 (November 14, 2011)
+
+* add 'cap rubygems:update'
+* add 'cap bundler:install'
+* add 'cap bundle:install'
+* add 'cap bundle:reset'
