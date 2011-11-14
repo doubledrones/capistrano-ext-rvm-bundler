@@ -9,3 +9,8 @@
 * add 'cap bundler:install'
 * add 'cap bundle:install'
 * add 'cap bundle:reset'
+
+== 0.0.2 (November 14, 2011)
+
+* update Manifest file
+* run tasks only on application servers
