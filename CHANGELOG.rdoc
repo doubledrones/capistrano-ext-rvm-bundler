@@ -1,0 +1,4 @@
+== (unreleased)
+
+* add description in README
+* add MIT license
