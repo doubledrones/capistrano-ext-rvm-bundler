@@ -1,7 +1,7 @@
-== (unreleased)
+== 0.0.2 (November 14, 2011)
 
-* add description in README
-* add MIT license
+* update Manifest file
+* run tasks only on application servers
 
 == 0.0.1 (November 14, 2011)
 
@@ -10,7 +10,7 @@
 * add 'cap bundle:install'
 * add 'cap bundle:reset'
 
-== 0.0.2 (November 14, 2011)
+== (unreleased)
 
-* update Manifest file
-* run tasks only on application servers
+* add description in README
+* add MIT license
